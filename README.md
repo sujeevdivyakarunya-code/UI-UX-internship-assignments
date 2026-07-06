@@ -1,4 +1,4 @@
-# UI/UX Design Internship Assignments
+# UI/UX Design Internship Assignments from decode labs
 
 Welcome to my UI/UX Design Internship repository.
 
